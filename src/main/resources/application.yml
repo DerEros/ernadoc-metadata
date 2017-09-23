@@ -1,0 +1,9 @@
+server:
+  port: 9091
+
+ernadoc:
+  metadata:
+    database:
+      host: localhost
+      name: ernadoc-metadata
+
